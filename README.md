@@ -1,0 +1,4 @@
+SucGo
+=====
+
+Succulent in golang
